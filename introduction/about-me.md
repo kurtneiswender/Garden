@@ -1,5 +1,5 @@
 ---
-description: Kurt Neiswender, AIA
+description: Kurt Neiswender, AIA | Twitter@kurtneiswender
 ---
 
 # 👨💼 About Me

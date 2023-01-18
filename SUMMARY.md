@@ -1,8 +1,8 @@
 # Table of contents
 
 * [☀ Introduction](README.md)
-* [👨💼 About Me](about-me/README.md)
-  * [📃 Curriculum Vitae](about-me/curriculum-vitae.md)
+* [👨💼 About Me](introduction/about-me.md)
+  * [📃 Curriculum Vitae](introduction/curriculum-vitae.md)
 
 ## Architect Onboarding
 
