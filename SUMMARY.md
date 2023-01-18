@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [About Me](introduction/about-me.md)
+  * [📃 Curriculum Vitae](introduction/curriculum-vitae.md)
 
 ## Architect Onboarding
 
