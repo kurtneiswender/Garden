@@ -4,7 +4,7 @@ description: >-
   of architecture.
 ---
 
-# Introduction
+# ☀ Introduction
 
 If you are not aware of the concept of a Digital Garden, I will expand on that as this space grows. In a nutshell, I look forward to sharing my experiences, thoughts, and interests in and around the profession of architecture.&#x20;
 
