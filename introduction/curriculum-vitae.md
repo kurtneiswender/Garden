@@ -6,11 +6,9 @@ description: circa 2023
 
 ## Kurt Neiswender, AIA
 
-#### 1017 Kensington Avenue, Flint, Michigan 48503
+#### Flint, Michigan 48503
 
-TEL: 810-824-8414
-
-EMAIL: kurt@urbancolab.design
+EMAIL: info@urbancolab.design
 
 WEB: www.urbancolab.design
 
@@ -88,7 +86,7 @@ _Bachelors of Architecture – 2003_
 
 #### **National Appointments**
 
-2019-2022 AIA National Small Firm Exchange Executive Committee
+2019-2022 AIA National Small Firm Exchange Board of Directors
 
 2017 AIA National Practice Innovation Lab Participant
 
@@ -153,6 +151,8 @@ ARC 3423, ARC 5413 – HVAC and Water Systems
 ARC 4443, ARC 5443 - Acoustics, Lighting, and Illumination Systems
 
 ARC 2116 - Integrated Design 1
+
+ARC 2126 - Integrated Design 2
 
 ARC 3126 - Integrated Design 4
 
