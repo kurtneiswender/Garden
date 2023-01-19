@@ -4,6 +4,10 @@
 * [👨💼 About Me](introduction/about-me.md)
   * [📃 Curriculum Vitae](introduction/curriculum-vitae.md)
 
+## Seeds
+
+* [Afraid of Heights](seeds/afraid-of-heights.md)
+
 ## Architect Onboarding
 
 * [The Basics](architect-onboarding/the-basics.md)
@@ -26,4 +30,12 @@
 
 ## Big Tent
 
-* [Page 1](big-tent/page-1.md)
+* [Big Tent vs. Little Tent](big-tent/big-tent-vs.-little-tent.md)
+
+## Friends and Allies
+
+* [Practice of Architecture](friends-and-allies/practice-of-architecture.md)
+
+## The Coffee Sketch Podcast
+
+* [A Podcast About...](the-coffee-sketch-podcast/a-podcast-about....md)
