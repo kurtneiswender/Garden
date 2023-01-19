@@ -6,8 +6,8 @@ But that is ok. It is totally fine to be afraid of things, I have learned that t
 
 Why I bring up the topic is not to talk about rollercoasters, but to talk about things that I am not afraid of and how they have shaped me as a person, and an architect.&#x20;
 
-{% embed url="https://tenor.com/view/graphic-artist-toilet-gif-11205499" %}
-Shout out to whoever created this because it is gold.
+{% embed url="https://media.giphy.com/media/CbSGut2wzWKZy/giphy.gif" %}
+Not sure who created this but thank you!
 {% endembed %}
 
 Architecture is a very old profession, as long as there have been buildings to occupy then there has been someone to guide the design and construction of them. Architecture is then a slow-moving profession that adapts to changes and technology very slowly. I experienced this firsthand when I started architecture school in the late 90's we were required to do all drawings by hand, and it was only until the third year that we were allowed to introduce the computer (CAD) into our toolset.&#x20;

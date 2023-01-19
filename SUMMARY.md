@@ -30,7 +30,7 @@
 
 ## Big Tent
 
-* [Big Tent vs. Little Tent](big-tent/big-tent-vs.-little-tent.md)
+* [Big Tent vs. Little Tent](big-tent/page-1.md)
 
 ## Friends and Allies
 
@@ -38,4 +38,4 @@
 
 ## The Coffee Sketch Podcast
 
-* [A Podcast About...](the-coffee-sketch-podcast/a-podcast-about....md)
+* [🎙 A Podcast About...](the-coffee-sketch-podcast/a-podcast-about....md)
