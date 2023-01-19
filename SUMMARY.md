@@ -34,7 +34,8 @@
 
 ## Friends and Allies
 
-* [Practice of Architecture](friends-and-allies/practice-of-architecture.md)
+* [Resources for Architects](friends-and-allies/resources-for-architects/README.md)
+  * [Practice of Architecture](friends-and-allies/resources-for-architects/practice-of-architecture.md)
 
 ## The Coffee Sketch Podcast
 
