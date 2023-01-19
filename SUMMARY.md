@@ -6,6 +6,7 @@
 
 ## Seeds
 
+* [Big Tent vs. Little Tent](seeds/big-tent-vs.-little-tent.md)
 * [Afraid of Heights](seeds/afraid-of-heights.md)
 
 ## Architect Onboarding
@@ -29,8 +30,6 @@
   * [Professional Development and Growth](architect-onboarding/professional-development-and-growth.md)
 
 ## Big Tent
-
-* [Big Tent vs. Little Tent](big-tent/page-1.md)
 
 ## Friends and Allies
 
