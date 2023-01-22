@@ -6,4 +6,3 @@ description: >-
 
 # Office Standards
 
-Coming Soon...

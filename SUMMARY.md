@@ -6,8 +6,8 @@
 
 ## Seeds
 
-* [Big Tent vs. Little Tent](seeds/big-tent-vs.-little-tent.md)
 * [Afraid of Heights](seeds/afraid-of-heights.md)
+* [Big Tent vs. Little Tent](seeds/big-tent-vs.-little-tent.md)
 
 ## Architect Onboarding
 
@@ -28,8 +28,6 @@
   * [Managing Product Reps and Vendors](architect-onboarding/managing-product-reps-and-vendors.md)
   * [Time Management](architect-onboarding/time-management.md)
   * [Professional Development and Growth](architect-onboarding/professional-development-and-growth.md)
-
-## Big Tent
 
 ## Friends and Allies
 
