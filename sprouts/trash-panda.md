@@ -2,7 +2,7 @@
 description: How one man's trash becomes another man's frisbee
 ---
 
-# Trash Panda
+# ☘ Trash Panda
 
 ### Taking a Stance on Plastic
 

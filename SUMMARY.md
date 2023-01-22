@@ -6,13 +6,16 @@
 
 ## Seeds
 
-* [Afraid of Heights](seeds/afraid-of-heights.md)
-* [Big Tent vs. Little Tent](seeds/big-tent-vs.-little-tent.md)
-* [Trash Panda](seeds/trash-panda.md)
+* [🌱 Big Tent vs. Little Tent](seeds/big-tent-vs.-little-tent.md)
+
+## Sprouts
+
+* [☘ Afraid of Heights](sprouts/afraid-of-heights.md)
+* [☘ Trash Panda](sprouts/trash-panda.md)
 
 ## Evergreen
 
-* [Passive House Design Basics](evergreen/passive-house-design-basics.md)
+* [🌲 Passive House Design Basics](evergreen/passive-house-design-basics.md)
 
 ## Architect Onboarding
 

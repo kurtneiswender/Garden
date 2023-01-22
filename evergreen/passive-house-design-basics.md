@@ -2,7 +2,7 @@
 description: Five Tenets of Passive House
 ---
 
-# Passive House Design Basics
+# 🌲 Passive House Design Basics
 
 ## Introduction to Passive House Design
 
