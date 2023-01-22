@@ -30,35 +30,35 @@ Our design team has brought a design from concept to building permit within a fe
 
 ## Four Principles of Passive House Design
 
-<figure><img src="https://lh5.googleusercontent.com/O0FIGKdOqt1m34i9c6i7MspASO0bQNwgoWtY_6Arlx2V-H1lSXmxH7LaTDgGLjkoZuea_SeT08m6h7tMhXU8G-sqiU2RTdjMpXSAHcC8KYh6TqapbKCzFLjUHhGbEM_TiCsXQg6psRRvo0z5lvPTsENyPMi8AEyYFsN1xEbrBojCHoclWbKTxZ4_1V2G" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
-
 ### 1-Solar Orientation
 
 Each design starts with a site plan that accurately orients the main elevation of the building directly south for maximum solar gain potential. By harnessing the sun’s energy in the winter and managing it in the summer, Passive Houses can take advantage of the free and natural resources. Each Passive House is designed for its specific climate region.
 
-<figure><img src="https://lh4.googleusercontent.com/ZQCbPLgJKAaZt4FvjbZ4tHoUIZJD2KKDjjNHQsLsJXvsvJwYa3h50_ATVu357JaHnCT-ttMnmAr3cwYUiYUwubr-MpH_W0s5o24YZoRD8HSW2Yohvc8tK-UJfrSysYLp1y6C54WawsMLOzW-XX-pGHDnqSbtKQwLHs2AzctGMbitE5UOF_eG-KFTN-Hf" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/O0FIGKdOqt1m34i9c6i7MspASO0bQNwgoWtY_6Arlx2V-H1lSXmxH7LaTDgGLjkoZuea_SeT08m6h7tMhXU8G-sqiU2RTdjMpXSAHcC8KYh6TqapbKCzFLjUHhGbEM_TiCsXQg6psRRvo0z5lvPTsENyPMi8AEyYFsN1xEbrBojCHoclWbKTxZ4_1V2G" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
 
 ### 2-Super-Insulated Envelope
 
 By increasing the amount of insulation all around a Passive House, we can control temperature differentials through all four seasons maintaining a comfortable indoor environment 365 days a year. By using blown cellulose insulation a Passive House dramatically reduces the embodied energy compared to batt insulation or spray foam.
 
-<figure><img src="https://lh5.googleusercontent.com/0Y79UTcOjZzyE4FUPqVLlbg_eEvlz0nSPkVNIVA46v6SC-5jOS-Wog6v7OvR7qsYBkwu33m7tqTw1UsySnjsQpn60CWFfangVam8UhZSjDTuHMvPk8GyQODA6SUa_9IBIMTndogHv11peR1KuORQI7mcNtwQMiHk36K9sA7CkNiUFvnQMSVrgMKrQeUG" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/ZQCbPLgJKAaZt4FvjbZ4tHoUIZJD2KKDjjNHQsLsJXvsvJwYa3h50_ATVu357JaHnCT-ttMnmAr3cwYUiYUwubr-MpH_W0s5o24YZoRD8HSW2Yohvc8tK-UJfrSysYLp1y6C54WawsMLOzW-XX-pGHDnqSbtKQwLHs2AzctGMbitE5UOF_eG-KFTN-Hf" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
 
 ### 3-High-Performance Windows
 
 In addition to a well-insulated exterior envelope (walls, roof, and floor) a good passive house also maximizes thermal comfort with carefully chosen windows and doors that are thermally insulated from the exterior. These windows are also triple-pane windows that have a higher R-value to reduce excess heat loss in the winter and heat gain in the summer. Window size and placement are also very important. In the Northern Hemisphere, it is ideal to have the largest windows facing directly south and smaller and fewer windows facing north for optimized building performance.
 
-<figure><img src="https://lh5.googleusercontent.com/opKPamKvqVsX43tdozVqo2gwgXy5bxW-23_QHliQMd9PtyGF07-cguId_GRqDqzSZdIw6phh5n00p8M4ZFAdgpS_uNhtNlZ9w6CWS_C2uPYJOFt8iCAkMFlv9xkd15Q0r9hIAltJW8y4759icFguBKYFrnR_Ppr2_1qAoGsfD1vJRVQtvDmHEZspT6WW" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/0Y79UTcOjZzyE4FUPqVLlbg_eEvlz0nSPkVNIVA46v6SC-5jOS-Wog6v7OvR7qsYBkwu33m7tqTw1UsySnjsQpn60CWFfangVam8UhZSjDTuHMvPk8GyQODA6SUa_9IBIMTndogHv11peR1KuORQI7mcNtwQMiHk36K9sA7CkNiUFvnQMSVrgMKrQeUG" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
 
 ### 4-Air-Tight Construction
 
 In concert with the insulation, the envelope of a Passive House is carefully constructed to minimize cracks and thermal bridges where air can infiltrate through the house. By dramatically reducing air leakage, a Passive House saves on energy costs that standard construction spends on reheating draft homes. The air-tight layer of a Passive House acts like a balloon filled with water, eliminating leaks.
 
-<figure><img src="https://lh6.googleusercontent.com/iYArdZWrnhDjL4Kpu1KmHkZyMBrNK_1lQmFobAoVGwZuswKBeRzt7jFZ5Pg_msnoXLAkf6y9XjpHKqn7cHCyjItbwjWP1q5pqDgSmVktPOIGcUp3lraZVO25r4qKCPkT70kJCDnZ9Zt4ZhnkLp09uQprqd9Np7u9UUp1cd-TS_WTXIrmaQb_OOnyNQrx" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/opKPamKvqVsX43tdozVqo2gwgXy5bxW-23_QHliQMd9PtyGF07-cguId_GRqDqzSZdIw6phh5n00p8M4ZFAdgpS_uNhtNlZ9w6CWS_C2uPYJOFt8iCAkMFlv9xkd15Q0r9hIAltJW8y4759icFguBKYFrnR_Ppr2_1qAoGsfD1vJRVQtvDmHEZspT6WW" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
 
 ### 5-Fresh Air Ventilation
 
 With all four of the above methods accomplished, the final step is to ventilate the Passive House efficiently. The best way to do this is with Heat Recovery Ventilation. This system takes 100% fresh air from the outside and preheats it with the exhaust stale air from the inside of the house. This quiet system replaces traditional fossil fuel-burning forced air furnaces.
+
+<figure><img src="https://lh6.googleusercontent.com/iYArdZWrnhDjL4Kpu1KmHkZyMBrNK_1lQmFobAoVGwZuswKBeRzt7jFZ5Pg_msnoXLAkf6y9XjpHKqn7cHCyjItbwjWP1q5pqDgSmVktPOIGcUp3lraZVO25r4qKCPkT70kJCDnZ9Zt4ZhnkLp09uQprqd9Np7u9UUp1cd-TS_WTXIrmaQb_OOnyNQrx" alt=""><figcaption><p>Richard Pedranti Architect</p></figcaption></figure>
 
 ### Additional Resources
 
