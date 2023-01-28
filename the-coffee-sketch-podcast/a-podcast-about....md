@@ -13,3 +13,53 @@ If you care to listen, our first episode is below, and you can subscribe through
 {% embed url="https://www.buzzsprout.com/272902/1029994" %}
 Coffee Sketch Podcast - Kurt Neiswender/Jamie Crawley
 {% endembed %}
+
+Thank you for listening. We both hope that you enjoyed this episode of Coffee Sketch Podcast. Our Theme music is provided by my brother who goes by @c\_0ldfashioned on Instagram and Twitter. Our podcast is hosted at [coffeesketchpodcast.com](http://coffeesketchpodcast.com) find more show notes and information from this episode. And finally, if you liked this episode please rate us on iTunes and share us with your friends! Thank you!
+
+#### Buy us a Coffee! Support the Show!
+
+[https://www.buymeacoffee.com/coffeesketch](https://www.buymeacoffee.com/coffeesketch)
+
+#### Music on the Show
+
+CNEIS - [https://cneis.bandcamp.com/](https://cneis.bandcamp.com/)
+
+c\_0ldfashioned - [https://www.instagram.com/c\_0ldfashioned/](https://www.instagram.com/c\_0ldfashioned/)&#x20;
+
+Compilation - [https://triplicaterecords.bandcamp.com/track/cneis-more-or-less](https://triplicaterecords.bandcamp.com/track/cneis-more-or-less)&#x20;
+
+#### Our Links
+
+Follow Jamie on Instagram  - [https://www.instagram.com/falloutstudio/](https://www.instagram.com/falloutstudio/)&#x20;
+
+Follow Kurt on Instagram - [https://www.instagram.com/kurtneiswender/](https://www.instagram.com/kurtneiswender/)&#x20;
+
+Kurt’s Practice - [https://www.instagram.com/urbancolabarchitecture/](https://www.instagram.com/urbancolabarchitecture/)&#x20;
+
+Coffee Sketch on Twitter - [https://twitter.com/coffeesketch](https://twitter.com/coffeesketch)&#x20;
+
+Jamie on Twitter - [https://twitter.com/falloutstudio](https://twitter.com/falloutstudio)&#x20;
+
+Kurt on Twitter - [https://twitter.com/kurtneiswender](https://twitter.com/kurtneiswender)&#x20;
+
+#### On the Web
+
+Website - [www.coffeesketchpodcast.com](http://www.coffeesketchpodcast.com)
+
+Kurt’s Practice - [www.urbancolab.design](http://www.urbancolab.design)&#x20;
+
+Contact Me - info@urbancolab.design&#x20;
+
+NFT Artwork - [https://hicetnunc.art/urbancolab](https://hicetnunc.art/urbancolab)&#x20;
+
+#### Coffee Sketch Podcast is on YouTube for extended cuts and more visual content of Jamie’s beautiful sketches. Please consider subscribing!
+
+[https://www.youtube.com/channel/UC\_lQkY3-OqmHaTl\_jdOgtvw](https://www.youtube.com/channel/UC\_lQkY3-OqmHaTl\_jdOgtvw)&#x20;
+
+#### Kurt’s Practice Urban Colab Architecture, shares about the practice of architecture and is also on YouTube. Please Subscribe to:&#x20;
+
+[https://www.youtube.com/channel/UCuMXvvQXgrQIVE1uJ8QHxsw](https://www.youtube.com/channel/UCuMXvvQXgrQIVE1uJ8QHxsw)&#x20;
+
+#### Tags
+
+In situ, art, architecture, sketching, coffee, coffee sketch, podcast, coffee sketch podcast, what an architect does, design, design thinking, drawing, buildings, building sketches, sketches, pen, paper, sketchbook, coffee stains, watercolor, pencil sketches, markers, black and white, architects, architecting, ink sketch, ink drawing, cafe sketch, cafe sketching, urban sketching&#x20;
