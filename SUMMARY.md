@@ -10,7 +10,7 @@
 
 ## Sprouts
 
-* [☘ Afraid of Heights](sprouts/afraid-of-heights.md)
+* [☘ Afraid of Heights](seeds/afraid-of-heights.md)
 * [☘ Trash Panda](sprouts/trash-panda.md)
 
 ## Evergreen
