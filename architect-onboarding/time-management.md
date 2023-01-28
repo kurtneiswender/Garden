@@ -6,4 +6,3 @@ description: >-
 
 # Time Management
 
-Coming Soon...

@@ -19,7 +19,7 @@
 
 ## Architect Onboarding
 
-* [The Basics](architect-onboarding/the-basics.md)
+* [🌱 The Basics](architect-onboarding/the-basics.md)
   * [I Graduated. Now what?](architect-onboarding/i-graduated.-now-what.md)
   * [Design Thinking](architect-onboarding/design-thinking.md)
   * [Learning by Repetition](architect-onboarding/learning-by-repetition.md)

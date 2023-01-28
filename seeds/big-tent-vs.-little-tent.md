@@ -1,3 +1,2 @@
-# 🌱 Big Tent vs. Little Tent
+# Big Tent vs. Little Tent
 
-Coming Soon...
