@@ -42,6 +42,7 @@
 * [Resources for Architects](friends-and-allies/resources-for-architects/README.md)
   * [Practice of Architecture](friends-and-allies/resources-for-architects/practice-of-architecture.md)
   * [Archimaration](friends-and-allies/resources-for-architects/archimaration.md)
+  * [Wikihouse](friends-and-allies/resources-for-architects/wikihouse.md)
 
 ## The Coffee Sketch Podcast
 
