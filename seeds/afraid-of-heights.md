@@ -1,4 +1,4 @@
-# Afraid of Heights
+# ☘ Afraid of Heights
 
 I am afraid of heights. I am not sure if I always was afraid of heights, but I am now, and so you will not likely see me volunteer to sit in the front row on a rollercoaster. In fact, you will not see me join you on any seat... ever!&#x20;
 

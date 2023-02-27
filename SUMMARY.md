@@ -2,6 +2,7 @@
 
 * [☀ Introduction](README.md)
 * [👨💼 About Me](introduction/about-me.md)
+  * [🗄 The Business Plan](about-me/the-business-plan.md)
   * [📃 Curriculum Vitae](introduction/curriculum-vitae.md)
 
 ## Seeds
